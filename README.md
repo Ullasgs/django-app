@@ -15,3 +15,10 @@ Install requirements
 Run the server
 
 ```python manage.py runserver```
+
+Head to this on your browser
+
+```http://127.0.0.1:8000/api/students/```
+```http://127.0.0.1:8000/api/students/adults```
+
+
