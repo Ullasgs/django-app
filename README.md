@@ -2,7 +2,9 @@
 
 clone the repo
 
-``` git clone https://github.com/Ullasgs/django-app```
+```js
+git clone https://github.com/Ullasgs/django-app
+```
 
 cd to project folder
 
@@ -10,7 +12,9 @@ Start a virtual environment
 
 Install requirements
 
-```pip install -r requirements.txt ```
+```js 
+pip install -r requirements.txt
+```
 
 Run the server
 
@@ -20,5 +24,6 @@ Head to this on your browser
 
 ```http://127.0.0.1:8000/api/students/```
 ```http://127.0.0.1:8000/api/students/adults```
+
 
 
